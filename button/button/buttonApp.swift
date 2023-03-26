@@ -12,6 +12,7 @@ struct buttonApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //ContentView2()
         }
     }
 }

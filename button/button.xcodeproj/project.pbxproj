@@ -14,6 +14,7 @@
 		D4CF4C3329D090EC007E8D7F /* buttonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF4C3229D090EC007E8D7F /* buttonTests.swift */; };
 		D4CF4C3D29D090EC007E8D7F /* buttonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF4C3C29D090EC007E8D7F /* buttonUITests.swift */; };
 		D4CF4C3F29D090EC007E8D7F /* buttonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF4C3E29D090EC007E8D7F /* buttonUITestsLaunchTests.swift */; };
+		D4CF4C4E29D09D90007E8D7F /* CountView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF4C4D29D09D90007E8D7F /* CountView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D4CF4C3829D090EC007E8D7F /* buttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CF4C3C29D090EC007E8D7F /* buttonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonUITests.swift; sourceTree = "<group>"; };
 		D4CF4C3E29D090EC007E8D7F /* buttonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D4CF4C4D29D09D90007E8D7F /* CountView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				D4CF4C2129D090EB007E8D7F /* buttonApp.swift */,
 				D4CF4C2329D090EB007E8D7F /* ContentView.swift */,
+				D4CF4C4D29D09D90007E8D7F /* CountView2.swift */,
 				D4CF4C2529D090EC007E8D7F /* Assets.xcassets */,
 				D4CF4C2729D090EC007E8D7F /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4CF4C2429D090EB007E8D7F /* ContentView.swift in Sources */,
+				D4CF4C4E29D09D90007E8D7F /* CountView2.swift in Sources */,
 				D4CF4C2229D090EB007E8D7F /* buttonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
